@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/github/stars/yezz123/github?style=social">
   </a>
 </p>
+ 
+  <p align="center"> 
+      <a href="https://www.buymeacoffee.com/tahiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+  </p>
 
 # Github-Info
   
