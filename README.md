@@ -1,23 +1,6 @@
 <p align="center">
-  <img width="480" height="480" src="https://media.giphy.com/media/hU9yHnbXHI1aFWRvAp/giphy.gif">
+<img src="https://github.com/yezz123/yezz123/blob/master/img/img.gif">
 </p>
-<p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
-
-<p align="center">
-  <a href="https://github.com/yezz123">
-    <img src="https://img.shields.io/github/followers/yezz123?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/yezz123/github/stargazers">
-    <img src="https://img.shields.io/github/stars/yezz123/github?style=social">
-  </a>
-</p>
- 
-  <p align="center"> 
-      <a href="https://www.buymeacoffee.com/tahiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-  </p>
-
-# Github-Info
-  
 
 ### Termux Install
 ```
@@ -36,3 +19,11 @@ $ python github.py
 # cd github
 # python github.py
 ```
+<p align="center">
+    <a href="https://yassertahiri.medium.com/">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://twitter.com/THyasser1">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
+    <a href="https://discord.gg/crNvkTYPYG">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
